@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JayD2003
+- ![](https://komarev.com/ghpvc/?username=JayD2003&color=green)
 - 👀 I’m interested in Web and Game Development
 - 🌱 I’m currently learning Web Development
 <!---
